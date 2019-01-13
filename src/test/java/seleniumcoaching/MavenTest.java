@@ -7,7 +7,7 @@ import static org.testng.Assert.*;
 public class MavenTest {
   @Test
   public void f() {
-	  System.out.println("Inside Test");
+	  System.out.println("Inside Test.......");
   }
   @BeforeMethod
   public void beforeMethod() {
